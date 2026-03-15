@@ -1,5 +1,5 @@
 # 🛍️ DeepCSAT: E-Commerce Customer Satisfaction Prediction
-**🔗 [View the Live Interactive Dashboard Here](https://your-streamlit-app-link-here.streamlit.app/)**
+**🔗 [View the Live Interactive Dashboard Here](https://deepcsat-gb5cp2mmprtsd62ser6xoc.streamlit.app/)**
 
 ## 📌 Overview
 Customer satisfaction is the lifeblood of e-commerce. Traditionally, platforms rely on post-interaction surveys to measure Customer Satisfaction (CSAT), which are highly reactive and suffer from low response rates. DeepCSAT engineers an end-to-end Machine Learning and Deep Learning pipeline to transition from a reactive survey model to a proactive, real-time predictive model.
