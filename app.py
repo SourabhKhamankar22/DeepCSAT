@@ -20,7 +20,7 @@ def load_assets():
 def load_data():
     # Replace 'your_dataset_name.csv' with the actual name of your original CSV file!
     try:
-        df = pd.read_csv('D:\GITHUB projects\DeepCSAT\eCommerce_Customer_support_data.csv')
+        df = pd.read_csv('eCommerce_Customer_support_data.csv')
         return df
     except FileNotFoundError:
         return None
